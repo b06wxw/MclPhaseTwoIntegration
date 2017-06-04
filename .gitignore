@@ -1,0 +1,12 @@
+bin/
+private/
+target/
+tmp/
+
+**/*.class
+
+# eclipse ide
+.classpath
+.project
+.settings/
+
